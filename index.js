@@ -17,7 +17,7 @@ exports.prefix = {
   'animation-timing-function': ['-webkit-'],
 
   'user-select': ['-webkit-', '-ms-', '-moz-'],
-  'placeholder': ['::-moz-placeholder', ':-ms-input-placeholder', '::-webkit-input-placeholder']
+  'placeholder': ['::-moz-', ':-ms-input-', '::-webkit-input-']
 }
 exports.transform = {
   'display: flex': [
