@@ -1,0 +1,10 @@
+{
+  "name": "css-prefixes",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "standard"
+  },
+  "devDependencies": {
+    "standard": "^5.1.0"
+  }
+}
